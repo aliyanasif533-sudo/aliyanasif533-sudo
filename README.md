@@ -18,17 +18,15 @@ I am an aspiring **Engineering Student** passionate about hardware design, circu
 
 ### 🛠️ Tools & Technologies
 
-#### 📐 Engineering & Circuit Design
+#### 🛠️ Computer Engineering & Hardware
 ![LTspice](https://img.shields.io/badge/Simulation-LTspice-darkblue?style=for-the-badge&logo=cpu)
-![Multisim](https://img.shields.io/badge/Simulation-NI%20Multisim-blueviolet?style=for-the-badge&logo=microchip)
-![Hardware](https://img.shields.io/badge/Electronics-Breadboarding%20%26%20Testing-green?style=for-the-badge)
+![Digital Logic](https://img.shields.io/badge/Logic_Design-Verilog%20%2F%20VHDL-orange?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Arduino%20%2F%20STM32-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-#### 💻 Software & Version Control
+#### 💻 Software & Systems
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📈 GitHub Statistics
 
