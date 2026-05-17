@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Aliyan Asif 👋 (`@aliyanasif533-sudo`)
 
-<!--
-**aliyanasif533-sudo/aliyanasif533-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aliyanasif533-sudo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="aliyanasif533-sudo" />
+</p>
 
-Here are some ideas to get you started:
+I am an aspiring **Engineering Student** passionate about hardware design, circuit analysis, and leveraging software to solve complex technical problems. As my username suggests, I like taking control of my systems and building efficient solutions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Studying Engineering at **[Your University Name, e.g., NUST / UET / FAST]**
+- ⚡ Currently diving deep into **Circuit Analysis, Simulation Tools, and Electronics**
+- 🛠️ Learning how to bridge the gap between hardware configurations and software control
+- 💬 Ask me about: Active/passive components, network theorems, or why my username ends in `-sudo`
+
+---
+
+### 🛠️ Tools & Technologies
+
+#### 📐 Engineering & Circuit Design
+![LTspice](https://img.shields.io/badge/Simulation-LTspice-darkblue?style=for-the-badge&logo=cpu)
+![Multisim](https://img.shields.io/badge/Simulation-NI%20Multisim-blueviolet?style=for-the-badge&logo=microchip)
+![Hardware](https://img.shields.io/badge/Electronics-Breadboarding%20%26%20Testing-green?style=for-the-badge)
+
+#### 💻 Software & Version Control
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliyanasif533-sudo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Aliyan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyanasif533-sudo&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🎯 Current Focus
+- [ ] Documenting and uploading all Circuit Analysis Lab tasks cleanly.
+- [ ] Mastering AC/DC network theorems (Thevenin, Norton, Superposition).
+- [ ] Building my first physical microcontroller-based project.
+
+📫 **How to reach me:** You can reach out via email at **[your.email@example.com]** or open an issue on any of my repositories!
