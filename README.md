@@ -9,7 +9,7 @@ I am an aspiring **Engineering Student** passionate about hardware design, circu
 ---
 
 ### 🚀 About Me
-- 🎓 Studying Engineering at **[Your University Name, e.g., NUST / UET / FAST]**
+- 🎓 Studying Engineering at UET Lahore Name
 - ⚡ Currently diving deep into **Circuit Analysis, Simulation Tools, and Electronics**
 - 🛠️ Learning how to bridge the gap between hardware configurations and software control
 - 💬 Ask me about: Active/passive components, network theorems, or why my username ends in `-sudo`
@@ -44,4 +44,4 @@ I am an aspiring **Engineering Student** passionate about hardware design, circu
 - [ ] Mastering AC/DC network theorems (Thevenin, Norton, Superposition).
 - [ ] Building my first physical microcontroller-based project.
 
-📫 **How to reach me:** You can reach out via email at **[your.email@example.com]** or open an issue on any of my repositories!
+📫 **How to reach me:** You can reach out via email at aliyanasif533@gmail.com or open an issue on any of my repositories!
