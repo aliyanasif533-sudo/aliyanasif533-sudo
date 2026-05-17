@@ -19,7 +19,7 @@ I am an aspiring **Engineering Student** passionate about hardware design, circu
 ### 🛠️ Tools & Technologies
 
 #### 🛠️ Current Engineering Tools
-![LTspice](https://img.shields.io/badge/Simulation-LTspice-darkblue?style=for-the-badge&logo=cpu)
+![Proteus](https://img.shields.io/badge/Simulation-Labcenter_Proteus-blue?style=for-the-badge&logo=microchip)
 ![Hardware](https://img.shields.io/badge/Electronics-Breadboarding-green?style=for-the-badge)
 
 #### 💻 Software & Learning Focus
